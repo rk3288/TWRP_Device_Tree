@@ -1,0 +1,6 @@
+App started at : 2024-07-26_20-06-34
+AppLoader: Loading app
+AppLoader: DATA_PATH=/storage/emulated/0/ImageFactory
+UnpackBootImageActivity: bootImage=/storage/emulated/0/ImageFactory/recovery-twrp3020-cht_cr_mrd-I1-TF.img outputDir=/storage/emulated/0/ImageFactory/unpacked/recovery-twrp3020-cht_cr_mrd-I1-TF.img_unpacked
+UnpackBootImageActivity: decompress ramdisk.cpio.gz successful
+UnpackBootImageActivity: decompress ramdisk.cpio successful
